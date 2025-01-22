@@ -48,6 +48,27 @@ Focuses on product performance metrics and returns analysis, with the following 
 
 ---
 
-## 🌍 How to Use the Dashboard  
+## Live Demo
++ [view Project on PowerBI](https://app.powerbi.com/groups/me/reports/d3d50bf0-7fcd-4fed-acb5-7001e1369926/26019da58b07cd49dbc3?experience=power-bi)
+
+![Project Screenshot](https://github.com/ManoTeja4858/Blinkit-Sales-and-Operations-/blob/main/Sales.png)
+
+
+## Datasets
++ refer to Dataset.Zip.
+
+## ✨ Demo
+Check out a sneak peek of the **dashboard** in action! 👇
+
+
+## 📫 Connect with Me
+If you have questions or want to collaborate, reach out:
+
+- 💼  ![LinkedIn](http://www.linkedin.com/in/manoteja48)
+- 📧 Email: manoteja4488@gmail.com
+
+## S⭐ Like this project? Give it a **star**! 🌟
+Feel free to fork and contribute! Contributions are always welcome. 😊
+ 
 
 
