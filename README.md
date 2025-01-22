@@ -1,5 +1,5 @@
 # 🚀 E-commerce Dashboard for Sales and Product Analysis  
-🎯 **Power BI | DAX | MySQL**
+🎯 **Power BI | DAX | Excel**
 
 ---
 
