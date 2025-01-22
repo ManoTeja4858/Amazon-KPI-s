@@ -48,17 +48,15 @@ Focuses on product performance metrics and returns analysis, with the following 
 
 ---
 
-## Live Demo
+## ✨Live Demo
+Check out a sneak peek of the **dashboard** in action! 👇
 + [view Project on PowerBI](https://app.powerbi.com/groups/me/reports/d3d50bf0-7fcd-4fed-acb5-7001e1369926/26019da58b07cd49dbc3?experience=power-bi)
 
-![Project Screenshot](https://github.com/ManoTeja4858/Blinkit-Sales-and-Operations-/blob/main/Sales.png)
+![Project Screenshot](https://github.com/ManoTeja4858/Amazon-KPI-s/blob/main/Overview.png)
 
 
 ## Datasets
 + refer to Dataset.Zip.
-
-## ✨ Demo
-Check out a sneak peek of the **dashboard** in action! 👇
 
 
 ## 📫 Connect with Me
